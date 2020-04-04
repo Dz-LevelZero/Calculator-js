@@ -40,13 +40,3 @@ body
     height: 100%;
 }
 
-h1
-{
-    color: red;
-    margin-top: 170px;
-    height: 200px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-
-}
